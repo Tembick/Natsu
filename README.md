@@ -68,11 +68,8 @@ node имя_файла_с_ботом.js
 
 ---
 
-Если хочешь, я могу помочь упаковать это в `README.md` файл автоматически или сгенерировать GitHub-репозиторий под это.
-```
-Вот английская версия `README.md`:
 
----
+
 
 ````markdown
 # 🤖 Minecraft HolyWorld Bot (Mineflayer)
@@ -139,5 +136,4 @@ For questions, feedback, or collaboration, feel free to message me on Telegram:
 
 ---
 
-If you'd like, I can combine both English and Russian into a bilingual README. Let me know!
-```
+
