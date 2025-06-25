@@ -10,13 +10,12 @@ const nearbyPlayers = {} // { username: [{name, x, y, z}] }
 
 
 
-const PASSWORD = '240986'
+const PASSWORD = 'Ваш пароль'
 const CAPTCHA_DIR = path.join(__dirname, 'captchas')
 if (!fs.existsSync(CAPTCHA_DIR)) fs.mkdirSync(CAPTCHA_DIR)
 
 const usernames = [
- 'ttw58', 'ttw59', 'ttw60',
-  'ttw61', 'ttw62', 'ttw63', 'ttw64'
+Ывши аккаунты 
 ]
 const bots = []
 let captchaImages = []
@@ -38,7 +37,7 @@ const botStates = []
 
 function createBot(username, index) {
   const bot = mineflayer.createBot({ 
-    host: 'mc.holyworld.me',
+    host: 'айпи сервера',
     username,
     auth: 'offline',
     version: '1.18.2'
